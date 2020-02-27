@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1582789761 source:c:\users\lemon\desktop\os2\experiments\exp8\main\test.cpp
+	"shell.h"
+
+1582791227 c:\users\lemon\desktop\os2\experiments\exp8\main\shell.h
+	"command.h"
+
+1582790957 c:\users\lemon\desktop\os2\experiments\exp8\main\command.h
+	"cmds.h"
+
+1582791289 c:\users\lemon\desktop\os2\experiments\exp8\main\cmds.h
+	<dirent.h>
+	<windows.h>
+	<string>
+	<vector>
+

@@ -1,0 +1,148 @@
+# depslib dependency file v1.0
+1579710187 source:c:\users\lemon\desktop\os2\os project\os2\main\test.cpp
+	<vector>
+	"CPU.h"
+
+1579710576 c:\users\lemon\desktop\os2\os project\os2\main\cpu.h
+	<iostream>
+	<iomanip>
+	<cassert>
+	"scheduling.h"
+	"Job.h"
+	"DeadLock.h"
+
+1579597535 c:\users\lemon\desktop\os2\os project\os2\main\logic.h
+	"PCBcontrol.h"
+
+1579701431 c:\users\lemon\desktop\os2\os project\os2\main\pcbcontrol.h
+	<cassert>
+	"PCB.h"
+
+1579597502 c:\users\lemon\desktop\os2\os project\os2\main\pcb.h
+	"Process.h"
+
+1579608881 c:\users\lemon\desktop\os2\os project\os2\main\process.h
+	<iostream>
+	"Event.h"
+
+1579710634 c:\users\lemon\desktop\os2\os project\os2\main\event.h
+	<string>
+
+1576120118 c:\users\lemon\desktop\os2\os project\os2\main\job.h
+	<string>
+	<vector>
+	"Event.h"
+
+1579702111 c:\users\lemon\desktop\os2\os project\os2\main\scheduling.h
+	"PCBcontrol.h"
+
+1579709704 c:\users\lemon\desktop\os2\os project\os2\main\deadlock.h
+
+1579710187 source:c:\users\lemon\desktop\os2\实验\实验一、二\os project\os2\main\test.cpp
+	<vector>
+	"CPU.h"
+
+1579710576 c:\users\lemon\desktop\os2\实验\实验一、二\os project\os2\main\cpu.h
+	<iostream>
+	<iomanip>
+	<cassert>
+	"scheduling.h"
+	"Job.h"
+	"DeadLock.h"
+
+1579702111 c:\users\lemon\desktop\os2\实验\实验一、二\os project\os2\main\scheduling.h
+	"PCBcontrol.h"
+
+1579701431 c:\users\lemon\desktop\os2\实验\实验一、二\os project\os2\main\pcbcontrol.h
+	<cassert>
+	"PCB.h"
+
+1579597502 c:\users\lemon\desktop\os2\实验\实验一、二\os project\os2\main\pcb.h
+	"Process.h"
+
+1579608881 c:\users\lemon\desktop\os2\实验\实验一、二\os project\os2\main\process.h
+	<iostream>
+	"Event.h"
+
+1579710634 c:\users\lemon\desktop\os2\实验\实验一、二\os project\os2\main\event.h
+	<string>
+
+1576120118 c:\users\lemon\desktop\os2\实验\实验一、二\os project\os2\main\job.h
+	<string>
+	<vector>
+	"Event.h"
+
+1579709704 c:\users\lemon\desktop\os2\实验\实验一、二\os project\os2\main\deadlock.h
+
+1582087984 source:c:\users\lemon\desktop\os2\experiments\exp1-2\os project\os2\main\test.cpp
+	<vector>
+	"CPU.h"
+
+1579710576 c:\users\lemon\desktop\os2\experiments\exp1-2\os project\os2\main\cpu.h
+	<iostream>
+	<iomanip>
+	<cassert>
+	"scheduling.h"
+	"Job.h"
+	"DeadLock.h"
+
+1579702111 c:\users\lemon\desktop\os2\experiments\exp1-2\os project\os2\main\scheduling.h
+	"PCBcontrol.h"
+
+1579701431 c:\users\lemon\desktop\os2\experiments\exp1-2\os project\os2\main\pcbcontrol.h
+	<cassert>
+	"PCB.h"
+
+1579597502 c:\users\lemon\desktop\os2\experiments\exp1-2\os project\os2\main\pcb.h
+	"Process.h"
+
+1582088504 c:\users\lemon\desktop\os2\experiments\exp1-2\os project\os2\main\process.h
+	<iostream>
+	"Event.h"
+
+1579710634 c:\users\lemon\desktop\os2\experiments\exp1-2\os project\os2\main\event.h
+	<string>
+
+1576120118 c:\users\lemon\desktop\os2\experiments\exp1-2\os project\os2\main\job.h
+	<string>
+	<vector>
+	"Event.h"
+
+1579709704 c:\users\lemon\desktop\os2\experiments\exp1-2\os project\os2\main\deadlock.h
+
+1582087984 source:c:\users\lemon\desktop\os2\experiments\exp1-2\main\test.cpp
+	<vector>
+	"CPU.h"
+
+1582788308 c:\users\lemon\desktop\os2\experiments\exp1-2\main\cpu.h
+	<iostream>
+	<iomanip>
+	<cassert>
+	"scheduling.h"
+	"Job.h"
+	"DeadLock.h"
+
+1579702111 c:\users\lemon\desktop\os2\experiments\exp1-2\main\scheduling.h
+	"PCBcontrol.h"
+
+1579701431 c:\users\lemon\desktop\os2\experiments\exp1-2\main\pcbcontrol.h
+	<cassert>
+	"PCB.h"
+
+1579597502 c:\users\lemon\desktop\os2\experiments\exp1-2\main\pcb.h
+	"Process.h"
+
+1582088504 c:\users\lemon\desktop\os2\experiments\exp1-2\main\process.h
+	<iostream>
+	"Event.h"
+
+1579710634 c:\users\lemon\desktop\os2\experiments\exp1-2\main\event.h
+	<string>
+
+1576120118 c:\users\lemon\desktop\os2\experiments\exp1-2\main\job.h
+	<string>
+	<vector>
+	"Event.h"
+
+1579709704 c:\users\lemon\desktop\os2\experiments\exp1-2\main\deadlock.h
+
